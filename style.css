@@ -8,3 +8,8 @@ footer{
 a{
     align-items: center;
 }
+.img-thumbnail{
+   height:50%;
+   width:70%;
+    
+}
